@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KlausOdenw
 - 👀 I’m a retired IBM Project Manager and interested in Finance Calculation Tools.
-- 🌱 I’m currently learning hwo to use various AI tools and Excel.
+- 🌱 I’m currently learning how to use various AI tools and Excel.
 - 💞️ I’m looking to collaborate on Excel Finance Tools
 - 📫 How to reach me:  via email  odenw@web.de
 - 😄 Pronouns: Klaus (just like the end of "Santa Claus") 
